@@ -12,7 +12,7 @@ import requests
 import tkinter.font as tkFont  # Correct import for tkinter font
 
 # Set your Hugging Face API key here
-HUGGING_FACE_API_KEY = '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'
+HUGGING_FACE_API_KEY = 'Enter your hugging face API key'
 
 API_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
 
