@@ -15,12 +15,12 @@ from groq import Groq
 client = Groq(
     # This is the default and can be omitted
 
-    api_key="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"
+    api_key="Enter Your groq API KEY"
 )
 
 
 # Set your Hugging Face API key here
-HUGGING_FACE_API_KEY = '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'
+HUGGING_FACE_API_KEY = 'Enter your HUgging face API'
 
 API_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
 
